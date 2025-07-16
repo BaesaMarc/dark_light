@@ -83,6 +83,13 @@ body {
     --couleur-carte: green;
 }
 
+.theme-cyberpunk {
+    --couleur-principale: cyan;
+    --couleur-fond: black;
+    --couleur-texte: white;
+    --couleur-carte: rgb(4, 253, 4);
+}
+
 /* responsive */
 
 @media (max-width: 600px) {
